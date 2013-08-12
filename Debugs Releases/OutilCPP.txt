@@ -1,0 +1,15 @@
+ClientTest.exe
+
+envoi un message conforme au protocole de type string et affiche le contenu d'un message reçu(utile pour verifier ce que envoi le serveur)
+
+Utile pour les test croisés aussi
+
+se connecte à l'ip 127.0.0.1
+
+
+ServeurTest.exe
+
+accepte un message conforme au protocole de type String et teste l'affichage d'un message de type string envoyé par le client.
+Utile pour test croisés.
+
+Se connecte à l'ip 127.0.0.1

@@ -1,0 +1,9 @@
+Srv : srv2.xpenradio.com
+bdd ezt user : tp_brutes
+mot de passe : frugabraukhou
+
+SELECT *
+FROM brutes
+INNER JOIN users_brute ON brutes.`id brute` = users_brute.`id_brute`
+INNER JOIN users ON users.`id` = users_brute.`id_user`
+WHERE users.id =1

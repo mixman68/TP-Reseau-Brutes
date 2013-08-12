@@ -1,0 +1,169 @@
+﻿La génération a démarré 12/03/2013 13:14:03.
+     1>Projet "E:\PERSO\DropBox\Dropbox\Dossier Projet Réseaux\clientCpp\clientIHM\clientIHM\clientIHM.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "Debug\clientIHM.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       GenerateTargetFrameworkMonikerAttribute:
+       La cible est ignorée "GenerateTargetFrameworkMonikerAttribute", car tous les fichiers de sortie sont à jour par rapport aux fichiers d'entrée.
+       ClCompile:
+         Toutes les sorties sont à jour.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\clientIHM.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Core.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt CliBru.cpp clientIHM.cpp /clr:nostdlib 
+         CliBru.cpp
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1704): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1706): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1708): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1710): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1722): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1724): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1726): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1728): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1739): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1741): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1743): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1745): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1755): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1757): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1759): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1761): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1874): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1876): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1878): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1880): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1891): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1893): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1895): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1897): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1908): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1910): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1912): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1914): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1924): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1926): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1928): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1930): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+         clientIHM.cpp
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1704): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1706): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1708): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1710): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1722): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1724): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1726): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1728): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1739): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1741): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1743): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1745): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1755): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1757): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1759): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1761): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1874): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1876): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1878): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1880): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1891): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1893): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1895): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1897): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1908): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1910): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1912): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1914): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1924): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1926): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1928): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+     1>e:\perso\dropbox\dropbox\dossier projet réseaux\clientcpp\clientihm\clientihm\CliBru.h(1930): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(867) : voir la déclaration de 'itoa'
+         Génération de code en cours...
+         Toutes les sorties sont à jour.
+       CoreResGen:
+         Toutes les sorties sont à jour.
+       ResourceCompile:
+         Toutes les sorties sont à jour.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\PERSO\DropBox\Dropbox\Dossier Projet Réseaux\clientCpp\clientIHM\Debug\clientIHM.exe" /INCREMENTAL /NOLOGO Ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:Debug\clientIHM.CliBru.resources /ASSEMBLYRESOURCE:Debug\clientIHM.ConnexionIHM.resources /MANIFEST /ManifestFile:"Debug\clientIHM.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\PERSO\DropBox\Dropbox\Dossier Projet Réseaux\clientCpp\clientIHM\Debug\clientIHM.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\Bonuses.obj
+         Debug\Brute.obj
+         Debug\CliBru.obj
+         Debug\Client.obj
+         Debug\clientIHM.obj
+         Debug\ConnexionIHM.obj
+         Debug\Reader.obj
+         Debug\stdafx.obj
+         Debug\Writer.obj
+         "Debug\.NETFramework,Version=v4.0.AssemblyAttributes.obj"
+         clientIHM.vcxproj -> E:\PERSO\DropBox\Dropbox\Dossier Projet Réseaux\clientCpp\clientIHM\Debug\clientIHM.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"E:\PERSO\DropBox\Dropbox\Dossier Projet Réseaux\clientCpp\clientIHM\Debug\clientIHM.exe;#1" /manifest Debug\clientIHM.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\clientIHM.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\clientIHM.lastbuildstate".
+     1>Génération du projet "E:\PERSO\DropBox\Dropbox\Dossier Projet Réseaux\clientCpp\clientIHM\clientIHM\clientIHM.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:08.82

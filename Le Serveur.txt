@@ -1,0 +1,3 @@
+Greg: Il ets important que le serveur attende une structure Je list et après j'écrit avec un beau while.
+
+Je ne sais pas encore comment gérer la perte de connexion prématuré, c'est fait mais pas de gestion de perte prématuré de connexion

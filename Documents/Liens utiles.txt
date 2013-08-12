@@ -1,0 +1,15 @@
+http://khayyam.developpez.com/articles/cpp/multithreads/
+http://c.developpez.com/cours/sockets-c-cpp-demystifies/
+http://www.adp-gmbh.ch/win/misc/sockets.html
+
+
+
+Liens utiles java 
+http://forum.hardware.fr/hfr/Programmation/Java/socket-client-serveur-sujet_125947_1.htm
+http://www.siteduzero.com/tutoriel-3-173544-introduction-aux-sockets.html
+http://gfx.developpez.com/tutoriel/java/network/#L3.B
+http://respawner.fr/blog/public/JavaTCPSimple/Server.java
+http://perso.telecom-paristech.fr/~hudry/coursJava/reseau/Serveur.java
+http://queinnec.perso.enseeiht.fr/Ens/Chat/socket-java.html
+http://ouvea.edu.ups-tlse.fr/~torguet/cours/l3rx/SupportSockets.html
+

@@ -1,0 +1,5 @@
+To do :
+Envoi des bonus et traitemant des bonus
+envoi des images
+Win
+Loose

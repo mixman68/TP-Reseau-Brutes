@@ -1,0 +1,28 @@
+t : Discriminant du type primitif string, le format est t+longueur+message
+q : ferme la socket
+i : entier court(32 bits)
+l : entier long (64 bits)
+c: caractère
+le float est inutile
+
+d : image me
+Le client attend une réponse ok du serveur, ensuite il attend de recevoir t+String contenant l'image et on envoi toutes les images concernées
+D : image other
+
+
+OK et KO sont traité tel quel le serveur envoi ok ou ko selon que le message soit bien arrivé et traité ou qu'il respecte les conditions pour etre considéré comme ok
+
+b: Brute Me
+Ensuite la brute est transmise dans cette ordre : string nom, entier level, entier, vie, entier force, entier speed.
+Le transfert des bonus liés à la brute est revu pour plus tard(certainement 3 couples d'entiers correspondant aux attribut
+à incrémenter ou desincrementer
+
+Le client envoi b, si le serveur trouve une brute, il envoit ok et  ensuite 5 messages : un string et 4 entier
+
+B: brute other
+W : WIN
+L: loose
+S : state
+j : join
+
+C : connexion(login)
